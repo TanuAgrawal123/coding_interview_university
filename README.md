@@ -24,8 +24,10 @@
 **Revisited?** 
 - [ ] Reading/Video Tutorial
 - [ ] Anki flash cards
+
 **Help Needed**
 - N/A
+
 **Link to work**: [N/A](N/A)
 [Table of Contents](#toc)
 ----------
