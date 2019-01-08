@@ -70,7 +70,7 @@
 
      *Array*
 
-    -[UC Berkeley CS61B - Linear and Multi-Dim Arrays (video)](https://archive.org/details/ucberkeley_webcast_Wp8oiO_CZZE) (Start watching from 15m 32s)
+    - [UC Berkeley CS61B - Linear and Multi-Dim Arrays (video)](https://archive.org/details/ucberkeley_webcast_Wp8oiO_CZZE) (Start watching from 15m 32s)
     
 **Revisited?** 
 - [ ] Reading/Video Tutorial(on Amortized anlysis and potential function)
