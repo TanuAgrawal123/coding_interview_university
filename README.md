@@ -5,7 +5,7 @@
 |Day|Focus|Day|Focus|
 |:---:|:-----:|:---:|:-----:|
 |[Day 1](#day-1) **06/01/19**| Algorithmic complexity / Big-O / Asymptotic analysis |[Day 2](#day-2) **07/01/19**|Algorithmic complexity / Big-O / Asymptotic analysis|
-|[Day 3](#day-3) **08/01/19**|Algorithmic complexity / Big-O / Asymptotic analysis and array data structure |[Day 4](#day-4) **09/01/19**| |
+|[Day 3](#day-3) **08/01/19**|Algorithmic complexity / Big-O / Asymptotic analysis and array data structure |[Day 4](#day-4) **10/01/19**|Array data structure |
 ----------
 <a name="day-1"></a>
 ### Day 1: January 06, 2019
@@ -57,7 +57,7 @@
 [Table of Contents](#toc)
 
 <a name="day-3"></a>
-### Day 3: January 09, 2019
+### Day 3: January 08, 2019
 **Today's Focus**: Algorithmic complexity / Big-O / Asymptotic analysis and array data structure. 
 
 **Details**:
@@ -84,4 +84,45 @@
  [N/A](N/A)
 
 [Table of Contents](#toc)
+
+
+<a name="day-4"></a>
+### Day 4: January 10, 2019
+**Today's Focus**: Array data structure. 
+
+**Details**:
+
+ - Read/Watched 
+      Implement an automatically resizing vector.
+    - [ ] Description:
+        - [Basic Arrays (video)](https://archive.org/details/0102WhatYouShouldKnow/02_04-basicArrays.mp4)
+        - [Multi-dim (video)](https://archive.org/details/0102WhatYouShouldKnow/02_05-multidimensionalArrays.mp4)
+        - [Dynamic Arrays (video)](https://www.coursera.org/learn/data-structures/lecture/EwbnV/dynamic-arrays)
+        - [Jagged Arrays (video)](https://www.youtube.com/watch?v=1jtrQqYpt7g)
+        - [Jagged Arrays (video)](https://archive.org/details/0102WhatYouShouldKnow/02_06-jaggedArrays.mp4)
+        - [Resizing arrays (video)](https://archive.org/details/0102WhatYouShouldKnow/03_01-resizableArrays.mp4)
+      [ ] Additional content:
+        - Vector Class in C++ STP.
+          - Push_back() Add value to the end 
+          - pop_back()  Remove element from end (capacity remain fixed)
+          - size() give total no of element
+          - clear() Remove all element
+          - add (index) give value at current index
+          - Front() give ist index value
+          - Back() give last value.
+
+    
+**Revisited?** 
+- [ ] Reading/Video Tutorial
+- [ ] Anki flash cards
+- [ ] Self made notes
+
+**Help Needed**
+- N/A
+
+**Link to work**:
+ [N/A](N/A)
+
+[Table of Contents](#toc)
+
 
