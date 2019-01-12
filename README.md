@@ -92,7 +92,8 @@
 
 **Details**:
 
- - Read/Watched 
+ - Read/Watched
+
       Implement an automatically resizing vector.
     - [ ] Description:
         - [Basic Arrays (video)](https://archive.org/details/0102WhatYouShouldKnow/02_04-basicArrays.mp4)
@@ -101,8 +102,11 @@
         - [Jagged Arrays (video)](https://www.youtube.com/watch?v=1jtrQqYpt7g)
         - [Jagged Arrays (video)](https://archive.org/details/0102WhatYouShouldKnow/02_06-jaggedArrays.mp4)
         - [Resizing arrays (video)](https://archive.org/details/0102WhatYouShouldKnow/03_01-resizableArrays.mp4)
-      [ ] Additional content:
+
+       Additional content:
+
         - Vector Class in C++ STP.
+        
           - Push_back() Add value to the end 
           - pop_back()  Remove element from end (capacity remain fixed)
           - size() give total no of element
