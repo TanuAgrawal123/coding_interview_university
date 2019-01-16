@@ -6,7 +6,8 @@
 |:---:|:-----:|:---:|:-----:|
 |[Day 1](#day-1) **06/01/19**| Algorithmic complexity / Big-O / Asymptotic analysis |[Day 2](#day-2) **07/01/19**|Algorithmic complexity / Big-O / Asymptotic analysis|
 |[Day 3](#day-3) **08/01/19**|Algorithmic complexity / Big-O / Asymptotic analysis and array data structure |[Day 4](#day-4) **10/01/19**|Array data structure |
-----------
+|[Day 5](#day-5) **12/01/19**|Array Data structure |[Day 4](#day-4) **16/01/19**|linked list Data structure |
+
 <a name="day-1"></a>
 ### Day 1: January 06, 2019
 **Today's Focus**: Algorithmic complexity / Big-O / Asymptotic analysis
@@ -139,7 +140,7 @@
 
       Implement an automatically resizing vector.
     - [ ] Description:
-        -  [ ] size() - number of items
+        - [ ] size() - number of items
         - [ ] capacity() - number of items it can hold
         - [ ] is_empty()
         - [ ] at(index) - returns item at given index, blows up if index out of bounds
@@ -161,10 +162,46 @@
               - Creating and Using Objects 
               - Python’s Built-In Classes 
               - Compound Expressions and Operator Precedence
-               
+
         - Page No.: 1-17
 
 
+    
+**Revisited?** 
+- [ ] Reading/Video Tutorial
+- [ ] Anki flash cards
+- [ ] Self made notes
+
+**Help Needed**
+- N/A
+
+**Link to work**:
+ [N/A](N/A)
+
+[Table of Contents](#toc)
+
+a name="day-6"></a>
+### Day 6: January 16, 2019
+
+**Today's Focus**:Linked list data structure
+
+**Details**:
+
+ - Read/Watched
+
+      - [ ] Description:
+        - [ ] [CS 61B - Linked Lists 1 (video)](https://archive.org/details/ucberkeley_webcast_htzJdKoEmO0)
+        - [ ] [CS 61B - Linked Lists 2 (video)](https://archive.org/details/ucberkeley_webcast_-c4I3gFYe3w)
+
+      - Book
+      - Data Structures and Algorithms in Python [Goodrich, Tamassia & Goldwasser]
+        - Topic:
+              - Conditionals 
+              - loops
+              - Information Passing 
+              - Python’s Built-In Functions 
+              
+        - Page No.: 18-28  
     
 **Revisited?** 
 - [ ] Reading/Video Tutorial
