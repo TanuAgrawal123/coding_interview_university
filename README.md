@@ -6,7 +6,9 @@
 |:---:|:-----:|:---:|:-----:|
 |[Day 1](#day-1) **06/01/19**| Algorithmic complexity / Big-O / Asymptotic analysis |[Day 2](#day-2) **07/01/19**|Algorithmic complexity / Big-O / Asymptotic analysis|
 |[Day 3](#day-3) **08/01/19**|Algorithmic complexity / Big-O / Asymptotic analysis and array data structure |[Day 4](#day-4) **10/01/19**|Array data structure |
-|[Day 5](#day-5) **12/01/19**|Array Data structure |[Day 4](#day-4) **16/01/19**|linked list Data structure |
+|[Day 5](#day-5) **12/01/19**|Array Data structure |[Day 6](#day-4) **16/01/19**|linked list Data structure |
+|[Day 7](#day-7) **06/02/19**|Linked list data structure |[Day 8](#day-8) ||
+
 
 <a name="day-1"></a>
 ### Day 1: January 06, 2019
@@ -180,7 +182,7 @@
 
 [Table of Contents](#toc)
 
-a name="day-6"></a>
+<a name="day-6"></a>
 ### Day 6: January 16, 2019
 
 **Today's Focus**:Linked list data structure
@@ -215,5 +217,49 @@ a name="day-6"></a>
  [N/A](N/A)
 
 [Table of Contents](#toc)
+
+<a name="day-7"></a>
+### Day 7: February 06, 2019
+
+**Today's Focus**:Linked list data structure
+
+**Details**:
+
+ - Read/Watched
+
+      - [ ] Description:
+        - [ ] [C Code (video)](https://www.youtube.com/watch?v=QN6FPiD0Gzo)
+            - not the whole video, just portions about Node struct and memory allocation.
+        - [ ] Linked List vs Arrays:
+         - [Core Linked Lists Vs Arrays (video)](https://www.coursera.org/
+           learn/data-structures-optimizing-performance/lecture/rjBs9/core-linked-lists-vs-arrays)
+         - [In The Real World Linked Lists Vs Arrays (video)](
+           https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/QUaUd/in-the-real-world-lists-vs-arrays)
+        - [ ] Gotcha: you need pointer to pointer knowledge:
+          (for when you pass a pointer to a function that may change the address where that pointer points)
+          This page is just to get a grasp on ptr to ptr. I don't recommend this list traversal style. Readability and maintainability suffer due to cleverness.
+          - [Pointers to Pointers](https://www.eskimo.com/~scs/cclass/int/sx8.html)
+        - [ ] implement:
+         - [ ] size() - returns number of data elements in list
+         - [ ] empty() - bool returns true if empty
+         - [ ] value_at(index) - returns the value of the nth item (starting at 0 for first)
+         - [ ] push_front(value) - adds an item to the front of the list
+         - [ ] pop_front() - remove front item and return its value   
+         - [ ] display() - to displaty the item   
+      
+**Revisited?** 
+- [ ] Reading/Video Tutorial
+
+- [ ] Self made notes
+
+**Help Needed**
+- N/A
+
+**Link to work**:
+ [here](https://github.com/TanuAgrawal123/coding_interview_university/blob/master/coding%20practice/linkedlist.c)
+
+[Table of Contents](#toc)
+
+
 
 
