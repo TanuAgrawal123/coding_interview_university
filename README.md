@@ -7,7 +7,7 @@
 |[Day 1](#day-1) **06/01/19**| Algorithmic complexity / Big-O / Asymptotic analysis |[Day 2](#day-2) **07/01/19**|Algorithmic complexity / Big-O / Asymptotic analysis|
 |[Day 3](#day-3) **08/01/19**|Algorithmic complexity / Big-O / Asymptotic analysis and array data structure |[Day 4](#day-4) **10/01/19**|Array data structure |
 |[Day 5](#day-5) **12/01/19**|Array Data structure |[Day 6](#day-4) **16/01/19**|linked list Data structure |
-|[Day 7](#day-7) **06/02/19**|Linked list data structure |[Day 8](#day-8) ||
+|[Day 7](#day-7) **06/02/19**|Linked list data structure |[Day 8](#day-8) **07/02/19** |Linked list data structure |
 
 
 <a name="day-1"></a>
@@ -246,6 +246,40 @@
          - [ ] push_front(value) - adds an item to the front of the list
          - [ ] pop_front() - remove front item and return its value   
          - [ ] display() - to displaty the item   
+      
+**Revisited?** 
+- [ ] Reading/Video Tutorial
+
+- [ ] Self made notes
+
+**Help Needed**
+- N/A
+
+**Link to work**:
+ [here](https://github.com/TanuAgrawal123/coding_interview_university/blob/master/coding%20practice/linkedlist.c)
+
+[Table of Contents](#toc)
+
+<a name="day-7"></a>
+### Day 8: February 07, 2019
+
+**Today's Focus**:Linked list data structure
+
+**Details**:
+
+ - Read/Watched
+
+      - [ ] Description:
+        - [ ] implement:
+         - [ ] push_back(value) - adds an item at the end
+         - [ ] pop_back() - removes end item and returns its value
+         - [ ] front() - get value of front item
+         - [ ] back() - get value of end item
+         - [ ] insert(index, value) - insert value at index, so current item at that index is pointed to by new item at index
+         - [ ] erase(index) - removes node at given index
+         - [ ] value_at_end(n) - returns the value of the node at nth position from the end of the list
+         - [ ] reverse() - reverses the list
+         - [ ] removes(value) - removes the first item in the list with this value   
       
 **Revisited?** 
 - [ ] Reading/Video Tutorial
