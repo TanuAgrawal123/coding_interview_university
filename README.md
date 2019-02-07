@@ -260,7 +260,7 @@
 
 [Table of Contents](#toc)
 
-<a name="day-7"></a>
+<a name="day-8"></a>
 ### Day 8: February 07, 2019
 
 **Today's Focus**:Linked list data structure
