@@ -8,7 +8,7 @@
 |[Day 3](#day-3) **08/01/19**|Algorithmic complexity / Big-O / Asymptotic analysis and array data structure |[Day 4](#day-4) **10/01/19**|Array data structure |
 |[Day 5](#day-5) **12/01/19**|Array Data structure |[Day 6](#day-4) **16/01/19**|linked list Data structure |
 |[Day 7](#day-7) **06/02/19**|Linked list data structure |[Day 8](#day-8) **07/02/19** |Linked list data structure |
-
+|[Day 9](#day-9) **08/02/19**|Linked list, stack, queue data structure |[Day 10](#day-10) ** ** | |
 
 <a name="day-1"></a>
 ### Day 1: January 06, 2019
@@ -291,6 +291,42 @@
 
 **Link to work**:
  [here](https://github.com/TanuAgrawal123/coding_interview_university/blob/master/coding%20practice/linkedlist.c)
+
+[Table of Contents](#toc)
+
+<a name="day-9"></a>
+### Day 9: February 08, 2019
+
+**Today's Focus**:Linked list,  stack and queue data structure
+
+**Details**:
+
+ - Read/Watched
+
+     [ ] Doubly-linked List
+       - [Description (video)](https://www.coursera.org/learn/data-structures/lecture/jpGKD/doubly-linked-lists)
+
+     ### stack
+      - [ ] [Stacks (video)](https://www.coursera.org/learn/data-structures/lecture/UdKzQ/stacks)
+      - [ ] [Using Stacks Last-In First-Out (video)](https://archive.org/details/0102WhatYouShouldKnow/05_01-usingStacksForLast-inFirst-out.mp4)
+
+     ### queue
+     - [ ] [Using Queues First-In First-Out(video)](https://archive.org/details/0102WhatYouShouldKnow/05_03-usingQueuesForFirst-inFirst-out.mp4)
+     - [ ] [Queue (video)](https://www.coursera.org/lecture/data-structures/queues-EShpq)
+     - [ ] [Circular buffer/FIFO](https://en.wikipedia.org/wiki/Circular_buffer)
+     - [ ] [Priority Queues (video)](https://archive.org/details/0102WhatYouShouldKnow/05_04-priorityQueuesAndDeques.mp4)
+
+      
+**Revisited?** 
+- [ ] Reading/Video Tutorial
+
+- [ ] Self made notes
+
+**Help Needed**
+- N/A
+
+**Link to work**:
+ [N/A](#)
 
 [Table of Contents](#toc)
 
