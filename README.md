@@ -8,7 +8,8 @@
 |[Day 3](#day-3) **08/01/19**|Algorithmic complexity / Big-O / Asymptotic analysis and array data structure |[Day 4](#day-4) **10/01/19**|Array data structure |
 |[Day 5](#day-5) **12/01/19**|Array Data structure |[Day 6](#day-4) **16/01/19**|linked list Data structure |
 |[Day 7](#day-7) **06/02/19**|Linked list data structure |[Day 8](#day-8) **07/02/19** |Linked list data structure |
-|[Day 9](#day-9) **08/02/19**|Linked list, stack, queue data structure |[Day 10](#day-10) ** ** | |
+|[Day 9](#day-9) **08/02/19**|Linked list, stack, queue data structure |[Day 10](#day-10) **14/02/19** |queue data structure |
+|[Day 11](#day-11) **16/02/19**|Hashing |[Day 12](#day-12) **17/02/19** |  |
 
 <a name="day-1"></a>
 ### Day 1: January 06, 2019
@@ -330,6 +331,67 @@
 
 [Table of Contents](#toc)
 
+
+[Table of Contents](#toc)
+
+<a name="day-10"></a>
+### Day 10: February 14, 2019
+
+**Today's Focus**: queue data structure
+
+**Details**:
+
+ - Read/Watched
+      - [ ] Implement using linked-list, with tail pointer:
+        - enqueue(value) - adds value at position at tail
+        - dequeue() - returns value and removes least recently added element (front)
+        - empty()
+
+      - [ ] Implement using fixed-sized array:
+        - enqueue(value) - adds item at end of available storage
+        - dequeue() - returns value and removes least recently added element
+        - empty()
+        - full()
+**Revisited?** 
+- [ ] Reading/Video Tutorial
+
+- [ ] Self made notes
+
+**Help Needed**
+- N/A
+
+**Link to work**:
+ [here](https://github.com/TanuAgrawal123/coding_interview_university/tree/master/coding%20practice)
+
+[Table of Contents](#toc)
+
+
+
+<a name="day-11"></a>
+### Day 11: February 16, 2019
+
+**Today's Focus**: Hashing 
+
+**Details**:
+
+ Hash table
+    - [ ] Videos:
+        - [ ] [Hashing with Chaining (video)](https://www.youtube.com/watch?v=0M_kIqhwbFo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=8)
+        - [ ] [Table Doubling, Karp-Rabin (video)](https://www.youtube.com/watch?v=BRO7mVIFt08&index=9&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
+        - [ ] [Open Addressing, Cryptographic Hashing (video)](https://www.youtube.com/watch?v=rvdJDijO2Ro&index=10&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
+        - [ ] [PyCon 2010: The Mighty Dictionary (video)](https://www.youtube.com/watch?v=C4Kc8xzcA68)
+**Revisited?** 
+- [ ] Reading/Video Tutorial
+
+- [ ] Self made notes
+
+**Help Needed**
+- N/A
+
+**Link to work**:
+ [N/A](#)
+
+[Table of Contents](#toc)
 
 
 

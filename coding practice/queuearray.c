@@ -1,4 +1,5 @@
 #include<stdio.h>
+
 void enqueue(int item);
 int dequeue();
 void display();
@@ -6,10 +7,10 @@ int empty();
 
 int full();
 
-int Queue[5],front=-1,rear=-1,size=5;
+int Queue[100],front=-1,rear=-1,size=100;
 int main()
 {
-int Queue[5],ch,item;
+int ch,item;
 while(1)
 {
 printf("enter choice\n 1. insertion \n 2 deletion \n 3. display\n 4 exit \n");
@@ -57,7 +58,7 @@ void enqueue(int item)
     {
 
 
-        if(rear==4)
+        if(rear==size-1)
             rear=0;
             else
                 rear=rear+1;
@@ -74,10 +75,10 @@ int dequeue()
         printf("queue is empty");
     else
     {item=Queue[front];
-        if(front==0)
-            front=size-1;
+        if(front==size-1)
+            front=0;
             else
-                front=front-1;
+                front=front+1;
 
 
     }
@@ -85,7 +86,7 @@ int dequeue()
 }
 int full()
 {int t=0;
-    if((front==0&&rear==size-1)||rear==front+1)
+    if((front==0&&rear==size-1)||front==rear+1)
         t=1;
     return t;
 
